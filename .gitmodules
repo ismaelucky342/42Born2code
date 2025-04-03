@@ -1,6 +1,6 @@
 [submodule "Rank 00/ft_libft"]
 	path = Rank 00/ft_libft
-	url = https://github.com/ismaelucky342/ft_libft
+	url = https://github.com/ismaelucky342/ft_libft.git
 [submodule "Rank 01/ft_printf"]
 	path = Rank 01/ft_printf
 	url = https://github.com/ismaelucky342/ft_printf
