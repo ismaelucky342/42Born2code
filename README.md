@@ -30,17 +30,17 @@ Upon completing the common core, marked by the ft_transcendence project and Exam
 | [**NetPractice**](https://github.com/ismaelucky342/NetPractice) | 100 | Rank 04 |
 | [**Cube3D**](https://github.com/ismaelucky342/Cub_3D) |  | Rank 04 |
 | [**CPP module 00**](https://github.com/ismaelucky342/CPP_Module_00) | 100 | Rank 04 |
-| [**CPP module 01**](https://github.com/ismaelucky342/CPP_Module_01) |  | Rank 04 |
+| [**CPP module 01**](https://github.com/ismaelucky342/CPP_Module_01) | 100 | Rank 04 |
 | [**CPP module 02**](https://github.com/ismaelucky342/CPP_Module_02) |  | Rank 04 |
 | [**CPP module 03**](https://github.com/ismaelucky342/CPP_Module_03) |  | Rank 04 |
 | [**CPP module 04**](https://github.com/ismaelucky342/CPP_Module_04) |  | Rank 04 | 
-| [**Exam Rank 04**](https://github.com/ismaelucky342/42_exams/tree/main/Exam_Rank_04) |  | Rank 04 |
+| [**Exam Rank 04**](https://github.com/ismaelucky342/42_exams/tree/main/Exam_Rank_04) | 100 | Rank 04 |
 | [**CPP module 05**](https://github.com/ismaelucky342/CPP_Module_05) |  | Rank 05 |
 | [**CPP module 06**](https://github.com/ismaelucky342/CPP_Module_06) |  | Rank 05 |
-| [**CPP module 07**](https://github.com/ismaelucky342/CPP_Module_07)  | coming soon | Rank 05 |
-| [**CPP module 08**](https://github.com/ismaelucky342/CPP_Module_08)  | coming soon | Rank 05 |
-| [**CPP module 09**](https://github.com/ismaelucky342/CPP_Module_09)  | coming soon | Rank 05 |  
-| [**Inception**] | coming soon | Rank 05 |
+| [**CPP module 07**](https://github.com/ismaelucky342/CPP_Module_07)  |  | Rank 05 |
+| [**CPP module 08**](https://github.com/ismaelucky342/CPP_Module_08)  |  | Rank 05 |
+| [**CPP module 09**](https://github.com/ismaelucky342/CPP_Module_09)  |  | Rank 05 |  
+| [**Inception**](https://github.com/ismaelucky342/Inception)  | | Rank 05 |
 | [**webserv**] | coming soon | Rank 05 |
 | [**ft_trascendence**] | coming soon | Rank 06 |
 | [**Exam Rank 06**] | coming soon | Rank 06 |
