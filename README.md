@@ -1,12 +1,10 @@
 # My journey in School 42
-[![ismherna 42 stats](https://badge.mediaplus.ma/Darkblue/ismherna?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
 
 In this repository, 42 projects will be uploaded once they have been completed, revised, and thoroughly examined. This repository reflects my academic journey at the 42 Madrid programming school, encompassing both the obligatory "Common Core" segment and the forthcoming specialized tracks known as "Outer Core," organized according to ranks.
 
 # Common core
 <p align="center">
-  <img src="https://github.com/ismaelucky342/Born2code/assets/153450550/ddbe9c21-b3bf-4733-8af8-2cfe845e8cf3)https://github.com/ismaelucky342/Born2code/assets/153450550/ddbe9c21-b3bf-4733-8af8-2cfe845e8cf3" alt="Descripción de la imagen">
+  <img src="https://github.com/user-attachments/assets/fbe0c3e2-6343-4554-b22e-a0df8625d222") alt="Descripción de la imagen">
 </p>
 
 The Common Core of School 42 comprises essential programming knowledge that every student must grasp. It is structured across six tiers, starting from the initial project, progressing from Rank 0 to Rank 6. Beyond the second tier, students are tasked not only with projects but also with examinations, enabling them to ascend to higher levels.
