@@ -2,6 +2,7 @@
 
 In this repository, 42 projects will be uploaded once they have been completed, revised, and thoroughly examined. This repository reflects my academic journey at the 42 Madrid programming school, encompassing both the obligatory "Common Core" segment and the forthcoming specialized tracks known as "Outer Core," organized according to ranks.
 
+
 # Common core
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fbe0c3e2-6343-4554-b22e-a0df8625d222") alt="Descripción de la imagen">
