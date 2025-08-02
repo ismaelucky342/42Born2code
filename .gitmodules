@@ -64,3 +64,12 @@
 [submodule "Rank 05/CPP_Module_09"]
 	path = Rank 05/CPP_Module_09
 	url = https://github.com/ismaelucky342/CPP_Module_09
+[submodule "Rank03"]
+	path = Rank03
+	url = https://github.com/ismaelucky342/Minishell
+[submodule "Minishell"]
+	path = Minishell
+	url = https://github.com/ismaelucky342/Minishell
+[submodule "Philosophers"]
+	path = Philosophers
+	url = https://github.com/ismaelucky342/Philosophers
