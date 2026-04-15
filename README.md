@@ -25,7 +25,7 @@ Upon completing the common core, marked by the ft_transcendence project and Exam
 | [**Philosophers**](https://github.com/ismaelucky342/Born2code/tree/main/Rank%2003/Philosophers) | ![Nota](https://img.shields.io/badge/125-brightgreen) | Rank 03 |
 | [**Exam Rank 03**](https://github.com/ismaelucky342/42_exams/tree/main/Exam_Rank_03) | ![Nota](https://img.shields.io/badge/100-brightgreen) | Rank 03 |
 | [**NetPractice**](https://github.com/ismaelucky342/NetPractice) | ![Nota](https://img.shields.io/badge/100-brightgreen) | Rank 04 |
-| [**Cube3D**](https://github.com/ismaelucky342/Cub_3D) | | Rank 04 |
+| [**Cube3D**](https://github.com/ismaelucky342/Cub_3D) | ![Nota](https://img.shields.io/badge/125-brightgreen) | Rank 04 |
 | [**CPP module 00**](https://github.com/ismaelucky342/CPP_Module_00) | ![Nota](https://img.shields.io/badge/100-brightgreen) | Rank 04 |
 | [**CPP module 01**](https://github.com/ismaelucky342/CPP_Module_01) | ![Nota](https://img.shields.io/badge/100-brightgreen) | Rank 04 |
 | [**CPP module 02**](https://github.com/ismaelucky342/CPP_Module_02) | ![Nota](https://img.shields.io/badge/100-brightgreen)| Rank 04 |
