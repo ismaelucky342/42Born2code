@@ -38,9 +38,9 @@ Upon completing the common core, marked by the ft_transcendence project and Exam
 | [**CPP module 08**](https://github.com/ismaelucky342/CPP_Module_08) | | Rank 05 |
 | [**CPP module 09**](https://github.com/ismaelucky342/CPP_Module_09) | | Rank 05 |
 | [**Inception**](https://github.com/ismaelucky342/Inception) | | Rank 05 |
-| [**webserv**](https://github.com/ismaelucky342/webserv) | coming soon | Rank 05 |
-| [**ft_trascendence**](https://github.com/ismaelucky342/ft_trascendence) | coming soon | Rank 06 |
-| [**Exam Rank 06**](https://github.com/ismaelucky342/42_exams/tree/main/Exam_Rank_06) | coming soon | Rank 06 |
+| [**webserv**](https://github.com/ismaelucky342/webserv) | | Rank 05 |
+| [**ft_trascendence**](https://github.com/ismaelucky342/ft_trascendence) | | Rank 06 |
+| [**Exam Rank 06**](https://github.com/ismaelucky342/42_exams/tree/main/Exam_Rank_06) | | Rank 06 |
 
 
 
