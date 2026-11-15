@@ -22,7 +22,7 @@ Upon completing the common core, marked by the ft_transcendence project and Exam
 | [**push_swap**](https://github.com/ismaelucky342/push_swap) | ![Nota](https://img.shields.io/badge/100-brightgreen) | Rank 02 |
 | [**Exam Rank 02**](https://github.com/ismaelucky342/42_exams/tree/main/Exam_Rank_02) | ![Nota](https://img.shields.io/badge/100-brightgreen) | Rank 02 |
 | [**minishell**](https://github.com/ismaelucky342/MiniShell) | ![Nota](https://img.shields.io/badge/125-brightgreen) | Rank 03 |
-| [**Philosophers**](https://github.com/ismaelucky342/Born2code/tree/main/Rank%2003/Philosophers) | ![Nota](https://img.shields.io/badge/125-brightgreen) | Rank 03 |
+| [**Philosophers**](https://github.com/ismaelucky342/Philosophers) | ![Nota](https://img.shields.io/badge/125-brightgreen) | Rank 03 |
 | [**Exam Rank 03**](https://github.com/ismaelucky342/42_exams/tree/main/Exam_Rank_03) | ![Nota](https://img.shields.io/badge/100-brightgreen) | Rank 03 |
 | [**NetPractice**](https://github.com/ismaelucky342/NetPractice) | ![Nota](https://img.shields.io/badge/100-brightgreen) | Rank 04 |
 | [**Cube3D**](https://github.com/ismaelucky342/Cub_3D) | ![Nota](https://img.shields.io/badge/125-brightgreen) | Rank 04 |
